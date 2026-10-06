@@ -3,5 +3,7 @@ __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
+*.ipynb
 *.egg-info/
 results/
+ClassIpynbs/
